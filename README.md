@@ -1,0 +1,6 @@
+# 【企业级】聚合支付程序|当面付|支付系统|即时到账|三方支付
+
+本程序依然还是本司独立原创开发的一套聚合程序，此次使用的UI后台，让操作变得更加简洁明细，看着更加舒服！<br>【国庆活动，购买赠送一次支付对接】<br>-------------------------------------------------<br>本套程序拥有两个版本，包更版本 和 不包更版本<br>包更：4588<br>不包更：3688<br>-------------------------------------------------<br>现已集成通道有：当面付 + 支付宝官方原生H5+ 微信官方原生H5+个码通道<br>欢迎前来咨询<br>-------------------------------------------------<br>系统特色：UI简洁、独立化商户管理、TP6新版本框架、分布式文件管理、技术指导、程序包更、BUG包修、独立费率管理、独立金额层通道分配、独立商户发起配置、详细化财务报表明细、独立化通道信息配置、等等等可以看演示站点！<br>如需增加其他内容可以另外找我定制功能给你。<br>后续会更新内容有：<br>example.com，让操作起来更加便捷<br>example.com，让程序更加耐干<br>【购买后你可以反馈，到时好的话我会采纳！】<br>-------------------------------------------------<br>【以下是测试站信息！】<br>管理后台：<br>http://example.com/admin/用户名 admin 密码123456<br>用户后台：<br>http://example.com/user用户名daili123 密码123456<br>【有什么需要可以加我QQ详细了解！】<br><br><br><br><br><br><br><br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/Nwauj" style="color: red;">https://mega-file.org/Nwauj</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
